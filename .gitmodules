@@ -1,0 +1,3 @@
+[submodule "libs/libdedx"]
+	path = libs/libdedx
+	url = https://github.com/APTG/libdedx
